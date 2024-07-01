@@ -1,0 +1,116 @@
+
+body{
+    background-color: black;
+}
+@font-face {
+  font-family: Luminari, fantasy;
+  src: url(/luminari/Luminari-Regular.ttf);
+}
+h2{
+  font-family: Luminari, fantasy;
+}
+a{
+  color: #dde9f4 !important;
+}
+.bk{
+  background-color: black;
+}
+.navbar{
+    margin: auto;
+    margin-right: 0;
+    padding-right: 0;
+}
+.image-int{
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  width: 95%;
+}
+.introduction{
+  color: rgb(233, 230, 226);
+  position: absolute;
+  margin-left: 7em;
+  bottom: 50px;
+  font-size: 2em;
+}
+.dario{
+  width: 80%;
+}
+.col-12{
+  color: #dde9f4;
+  text-align: justify;
+}
+.col-12 p{
+  margin-bottom: 0;
+}
+.preferences h2{
+  text-align: center;
+}
+.preferences p{
+  text-align: justify;
+}
+.card{
+  border: 7px solid #0d1117;
+  border-radius: 15px;
+  margin: auto;
+}
+.card p{
+  text-align: center;
+  font-weight: bold;
+}
+h2{
+  text-align: center;
+}
+.education p, .preferences p, .dreams p{
+  color: #dde9f4;
+}
+.education h2{
+  color: #f778ba;
+}
+.preferences h2{
+  color: #33b3ae;
+}
+.movies h2, .music h2, .games h2{
+  color: #7040c9;
+}
+.dreams h2{
+  color: #3fb950;
+}
+p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.personal1{
+  border: 20px #0d1117;
+  border-radius: 12px;
+  background-color: #0d1117;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+.educa{
+  border: 20px #0d1117;
+  border-radius: 12px;
+  background-color: #0d1117;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+.intro{
+  border: 20px #0d1117;
+  border-radius: 12px;
+  background-color: #0d1117;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+.mydream{
+  border: 20px #0d1117;
+  border-radius: 12px;
+  background-color: #0d1117;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+.arrow{
+  position: fixed;
+  bottom: 9px;
+  right: 9px;
+  background-color: #00c0ba;
+  width: 35px;
+}
